@@ -25,3 +25,16 @@ read("b.txt")
 >> "aaaaabbbbb"
 
 */
+
+
+/*
+test case:
+GFSClient(5)
+read("a.txt")
+write("a.txt", "World")
+read("a.txt")
+write("b.txt", "111112222233")
+write("b.txt", "aaaaabbbbb")
+read("b.txt")
+
+*/
